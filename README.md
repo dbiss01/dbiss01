@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning ... vuex & some tricks :D
 - 💞️ I’m looking to collaborate on ... MobSolution on third sys for SUS health brasilian system 
 - 📫 How to reach me ... gustavosamuelmarcolin@gmail.com
+
+
+don't notice the mess here 🤠
