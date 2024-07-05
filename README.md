@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbiss01
-- 👀 Interested in api, laravel
+- 👀 Interested in all we can code
 - 🌱 Currently learning some tricks, hacks :D
 - 💞️ Dev on anonymous systems while
 - 📫 email-me gustavosamuelmarcolin@gmail.com
